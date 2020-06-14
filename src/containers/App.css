@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'SEGA LOGO FONT';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SEGA LOGO FONT'), url('ericssonga-628.woff') format('woff');
+}
+h1{
+	font-family: 'SEGA LOGO FONT';
+	text-transform: uppercase;
+	font-weight: 2000;
+	color: #0ccac4;
+	
+}
